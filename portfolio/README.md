@@ -1,6 +1,6 @@
 # BEOVOLYTICS INC.
 
-WEB & BLOCKCHAIN DEVELOPMENT COMPANY
+#### WEB & BLOCKCHAIN DEVELOPMENT COMPANY
 
 
 ##### We engineer world-class software & Blockchain technology solutions:
@@ -9,7 +9,7 @@ Beovolytics leverages exceptional IT and blockchain engineering talent to delive
 
 
 
-### SERVICES
+#### SERVICES
 
 
 #### Blockchain Development
