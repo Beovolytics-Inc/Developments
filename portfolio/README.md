@@ -1,8 +1,5 @@
-BEOVOLYTICS INC.
+# BEOVOLYTICS INC. - SOFTWARE DEVELOPMENT COMPANY
 
-SOFTWARE DEVELOPMENT COMPANY
-
-#
 
 ##### We engineer world-class software & Blockchain technology solutions:
 
